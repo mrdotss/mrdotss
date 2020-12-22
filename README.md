@@ -1,7 +1,7 @@
 ### Hai there xD
 
 My name is Mayer Reflino Sitorus</br>
-I'm not a programmer, just people who interact with network automation</br>
+I'm not programmer, just people who interact with network automation</br>
 - 📷 [FATechID](https://fatechid.blog) it's my personal blog about Networking with Cisco or MikroTik</br>
 - 📙 I'm currently studying at Telkom University</br>
 - ☁ I also interest in interns about network</br>
