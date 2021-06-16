@@ -6,6 +6,10 @@ I'm not programmer, just people who interact with network automation</br>
 - 📙 I'm currently studying at Telkom University</br>
 - ☁ I also interest in interns about network</br>
 - 📩 Feel free to contact me: mayer[at]fatechid.com :)
+
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=mrdotss&repo=ros-automation&theme=dracula)<br><br>
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=mrdotss&repo=netbox&theme=dracula)
+
 <!--
 **mrdotss/mrdotss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
