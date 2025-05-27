@@ -1,9 +1,11 @@
-### Hai there xD
+### Hi there 👋
 
-My name is Mayer Reflino Sitorus</br>
-I'm just people who interact with network and ADB automation xD</br>
-- 📷 [FATechID](https://blog.fatechid.com) it's my personal blog about Networking</br>
-- 📙 [mrdotss](https://mrdotss.github.io/) Check it out my portfolio</br>
-- 📱 I am currently developing Android forensic tools for remote/wired acquisition (you can check on my repository)</br>
-- ☁ I also interest in Network Programmability sector</br>
-- 📩 Feel free to contact me: mayer[at]fatechid.com :)
+I’m **Mayer Reflino Sitorus**, a python developer, networking and Android-forensics enthusiast.
+
+- 🔭 I’m currently developing Android forensic tools for remote & wired acquisition  
+- 🌐 Building web applications with **Django** & **Laravel**  
+- ☁️ Exploring network programmability and ADB automation  
+- 📷 Sharing networking insights on my blog: [FATechID](https://blog.fatechid.com)  
+- 📙 Check out my portfolio: [mrdotss.github.io](https://mrdotss.github.io/)  
+
+Feel free to explore my repositories and drop me a line if you’d like to collaborate!
