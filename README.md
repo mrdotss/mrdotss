@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently developing Android forensic tools for remote & wired acquisition (Web/Desktop)<br>🌐 Building web applications with Django & Laravel<br>☁️ Exploring network programmability and ADB automation<br>📷 Sharing networking insights on my blog: <a href="https://blog.fatechid.com" target="_blank">FAQs Blog</a><br>📙 Check out my portfolio: <a href="https://mrdotss.github.io" target="_blank">mrdotss.github.io</a></p>
+<p align="left">🔭 I’m currently developing Android forensic tools for remote & wired acquisition (Web/Desktop)<br>☁️ Exploring network programmability and ADB automation<br>🌐 Building web applications with Django & Laravel<br>📷 Sharing networking insights on my blog: <a href="https://blog.fatechid.com" target="_blank">FAQs Blog</a><br>📙 Check out my portfolio: <a href="https://mrdotss.github.io" target="_blank">mrdotss.github.io</a></p>
 
 ###
 
