@@ -51,5 +51,3 @@
 </div>
 
 ###
-
-Anyway, feel free to explore my repositories and drop me a line if you’d like to collaborate^^
